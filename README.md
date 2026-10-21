@@ -9,6 +9,7 @@
 ## 文档导航
 
 - [01｜劳动力、毕业生与求职人群](docs/01-market-and-jobseekers.md)
+- [05｜人口构成、外籍劳动力与国际毕业生](docs/05-population-and-international-graduates.md)
 - [02｜流量、SEO 与线上广告](docs/02-traffic-seo-ads.md)
 - [03｜社媒账号与内容运营](docs/03-social-operations.md)
 - [04｜线下活动与新加坡本地宣传](docs/04-local-campaigns.md)
@@ -20,10 +21,11 @@
 1. **新加坡的劳动力结构不是求职平台用户结构。** MOM 2025 年居民就业者中，PMET（专业人员、经理、执行人员、技术人员）占 64.2%；文职、销售与服务类占 18.9%；生产、运输操作、清洁及劳工类占 17.0%。它是居民就业者构成，不是求职者比例，也不是白领/蓝领的严格二分。[MOM《Labour Force in Singapore 2025》](https://stats.mom.gov.sg/Pages/Labour-Force-In-Singapore-2025.aspx?PageVersion=1024)
 2. **毕业生“人数”与“正在求职人数”必须分开。** 2024 年本地六所自治大学全日制本科毕业生为 19,803 人；MOM 对 2026 年近期自治大学毕业生的时点统计约为 18,000 人，其中约 9,100 人就业、3,600 人仍在求职、5,400 人暂不在劳动力中。两者范围、年度与统计时点不同，不能拼成一个比例。[MOE 教育统计年报](https://www.moe.gov.sg/-/media/files/about-us/esd-2025.pdf) · [MOM 2026 书面答复](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/0804-written-answer-to-pq-on-fresh-graduate-employment)
 3. **没有可比的六平台人群份额公开数据。** 没有找到六家按毕业生、年龄、PMET/非PMET切分的新加坡用户数或求职者份额。FastJobs 发布了较具体的用户画像，但属于平台自己的营销数据；其他平台不应从流量、职位类别或品牌定位推断实际用户构成。
-4. **网站访问估算只能做方向比较。** Semrush 2026 年 9 月的新加坡分类榜给出 JobStreet 约 138 万、Indeed 约 91.8 万、FastJobs 约 23.0 万、foundit 约 7.58 万访问估算；MCF可读到的详细数据为 8 月约 133 万。LinkedIn 约 844 万是全站分类流量，绝不是 Jobs 模块流量。估算访问不是独立求职者、月活或申请数。[Semrush 新加坡 HR 榜](https://www.semrush.com/trending-websites/sg/human-resources)
-5. **平台的渠道特征不同。** MCF 是新加坡政府就业服务生态；JobStreet 是综合职位市场；Indeed 有全球搜索与本地内容；LinkedIn 将职位与职业身份、关系和内容网络结合；FastJobs 强调移动端与非管理岗位；foundit 用全球招聘趋势内容连接求职者和企业招聘者。
-6. **线下公开案例不均衡。** JobStreet 有大型年度招聘会和本地公交、出租车、MRT宣传证据；FastJobs与e2i把招聘活动、现场面试与App申请结合；WSG/SSG的路演属于公共就业服务生态。Indeed、LinkedIn、foundit已确认的案例更偏 HR/B2B 活动。未找到可核实案例不代表没有投放。
-7. **社媒粉丝和发帖不能代表投放效果。** 全球账号关注数不等于新加坡受众；很多平台没有公开稳定的 impressions、点击和申请归因。报告记录账号归属、内容样本、CTA和可见指标，并把抓取不到与数值为零区分。
+4. **人口数据也要区分居民、非居民和工作准证。**截至2026年6月新加坡约621万人：公民368万、PR55万、非居民198万；MOM同月统计外籍劳动力约165.6万，包含外籍家佣。非居民不是外籍求职者，PR授予数也不等于毕业生留新就业数。[NPTD人口数据](https://www.population.gov.sg/our-population/population-trends/overall-population/) · [MOM外籍劳动力数据](https://www.mom.gov.sg/foreign-workforce-numbers)。详见[人口与国际毕业生附录](docs/05-population-and-international-graduates.md)。
+5. **网站访问估算只能做方向比较。** Semrush 2026 年 9 月的新加坡分类榜给出 JobStreet 约 138 万、Indeed 约 91.8 万、FastJobs 约 23.0 万、foundit 约 7.58 万访问估算；MCF可读到的详细数据为 8 月约 133 万。LinkedIn 约 844 万是全站分类流量，绝不是 Jobs 模块流量。估算访问不是独立求职者、月活或申请数。[Semrush 新加坡 HR 榜](https://www.semrush.com/trending-websites/sg/human-resources)
+6. **平台的渠道特征不同。** MCF 是新加坡政府就业服务生态；JobStreet 是综合职位市场；Indeed 有全球搜索与本地内容；LinkedIn 将职位与职业身份、关系和内容网络结合；FastJobs 强调移动端与非管理岗位；foundit 用全球招聘趋势内容连接求职者和企业招聘者。
+7. **线下公开案例不均衡。** JobStreet 有大型年度招聘会和本地公交、出租车、MRT宣传证据；FastJobs与e2i把招聘活动、现场面试与App申请结合；WSG/SSG的路演属于公共就业服务生态。Indeed、LinkedIn、foundit已确认的案例更偏 HR/B2B 活动。未找到可核实案例不代表没有投放。
+8. **社媒粉丝和发帖不能代表投放效果。** 全球账号关注数不等于新加坡受众；很多平台没有公开稳定的 impressions、点击和申请归因。报告记录账号归属、内容样本、CTA和可见指标，并把抓取不到与数值为零区分。
 
 ## 核心比较表
 

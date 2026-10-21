@@ -13,6 +13,7 @@
 - [02｜流量、SEO 与线上广告](docs/02-traffic-seo-ads.md)
 - [03｜社媒账号与内容运营](docs/03-social-operations.md)
 - [04｜线下活动与新加坡本地宣传](docs/04-local-campaigns.md)
+- [06｜核心指标追踪与本轮补查](docs/06-core-metrics-and-method.md)
 
 ## 摘要
 

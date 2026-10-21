@@ -14,6 +14,7 @@
 - [03｜社媒账号与内容运营](docs/03-social-operations.md)
 - [04｜线下活动与新加坡本地宣传](docs/04-local-campaigns.md)
 - [06｜核心指标追踪与本轮补查](docs/06-core-metrics-and-method.md)
+- [07｜广告投放渠道、渠道分配与转化效果](docs/07-advertising-channels-and-performance.md)
 
 ## 摘要
 
